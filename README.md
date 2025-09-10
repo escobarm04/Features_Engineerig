@@ -1,4 +1,4 @@
-# Reto: Deserción de empleados RETO: DESERCIÓN DE EMPLEADOS
+# Reto: Deserción de empleados
  
 ## Objetivo: 
  
